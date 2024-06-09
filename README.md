@@ -6,4 +6,6 @@ The preprocessed data of the Supply Chain, original dataset, Visualization, Docu
 
 **Original Dataset Link: https://drive.google.com/file/d/1YfEqQbZBzuuyH828apUzaewENgvJifeP/view?usp=drive_link**
 
+**Preprocessed Dataset Link: https://443cff1p8y3gll6.sg.qlikcloud.com/dataset/666481571e8a92a06d54b22a**
+
 **Demonstration Link: https://youtu.be/K6plErTIyIk?si=-0W7AicOmwXfTKgs**
