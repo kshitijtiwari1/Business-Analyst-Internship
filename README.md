@@ -5,3 +5,5 @@ The project aims to revolutionize supply chain management through data-driven in
 The preprocessed data of the Supply Chain, original dataset, Visualization, Documentation and Demonstration video are attached in the **Google Drive link: https://drive.google.com/drive/folders/12O00xrQ-91p_ftszNczxO1Pc0mC8dKXL?usp=drive_link**
 
 **Original Dataset Link: https://drive.google.com/file/d/1YfEqQbZBzuuyH828apUzaewENgvJifeP/view?usp=drive_link**
+
+**Demonstration Link: https://youtu.be/K6plErTIyIk?si=-0W7AicOmwXfTKgs**
